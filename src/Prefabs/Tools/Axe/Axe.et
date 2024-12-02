@@ -1,6 +1,8 @@
 GenericEntity : "{F3919A62ADD6123A}Prefabs/Tools/Tool_Base.et" {
  ID "50989DC991E68512"
  components {
+  SignalsManagerComponent "{6304E3EBAE927227}" {
+  }
   InventoryItemComponent "{5ACCA164BC7A99A2}" {
    Attributes SCR_ItemAttributeCollection "{51F080D5C64F12C5}" {
     ItemDisplayName UIInfo "{5990AD6EC4FAB1CD}" {
